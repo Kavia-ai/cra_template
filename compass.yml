@@ -1,0 +1,14 @@
+name: cra_template
+id: ari:cloud:compass:5e94d758-a794-4b1d-8c6d-fc24ab811c25:component/eaa92134-53b3-4c85-a00a-1874d1736e0e/480095d2-f70b-412f-a96d-d2f0a75bbdf0
+description: null
+configVersion: 1
+typeId: SERVICE
+fields:
+  tier: 4
+links: []
+relationships:
+  DEPENDS_ON: []
+labels:
+  - language:javascript
+  - source:github
+customFields: null
